@@ -1,0 +1,24 @@
+{
+  "name": "Rambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "both.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satomikenta-org/Rambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satomikenta-org/Rambda/issues"
+  },
+  "homepage": "https://github.com/satomikenta-org/Rambda#readme",
+  "dependencies": {
+    "rambda": "^3.2.1",
+    "ramda": "^0.26.1"
+  }
+}
